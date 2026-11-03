@@ -1,0 +1,13 @@
+Test Mode: normal
+Accuracy: 0.5282
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.54      1.00      0.70     40000
+           1       0.52      0.08      0.13     40000
+           2       0.51      0.51      0.51     40000
+
+    accuracy                           0.53    120000
+   macro avg       0.52      0.53      0.45    120000
+weighted avg       0.52      0.53      0.45    120000
